@@ -1,10 +1,13 @@
 # Markov-Random-Fields
 
 ## Ising model
+We aim to sample the following distribution
 
 <img src="img/gibbs_eq.png" width="60%">
 
 <img src="img/ising_eq.png" width="30%">
+
+We achieved sampling Ising model using 3 different algorithms: Gibbs sampling, Metropolis sampling, ICM.
 
   Example with beta = 1.  :
 
