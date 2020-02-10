@@ -29,8 +29,12 @@ If ICM is faster it requires to start from a suitable initial solution and if no
 
 ## Potts model
 
-<img src="img/potts_eq.png.png" width="60%">
+We also sample the Potts model, more generalized version of Ising model as it state set is no more binary
+
+In the following we sampled:
+<img src="img/potts_simple_eq.png" width="60%">
 <img src="img/potts_no_mix_.png" width="60%">
+<img src="img/potts_hierarch_eq.png" width="60%">
 <img src="img/potts_with_hierarch_mix_.png" width="60%">
 
 ## Image denoising 
