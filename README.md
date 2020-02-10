@@ -6,7 +6,12 @@
 
 <img src="img/ising_eq.png" width="30%">
 
+example with beta = 1.:
+
 <img src="img/ising_gibbs_1_.png" width="60%">
+
+example with beta = 3.:
+
 <img src="img/ising_gibbs_3_.png" width="60%">
 <img src="img/all_curves.png" width="60%">
 <img src="img/ising_icm_from_zeros_.png" width="60%">
