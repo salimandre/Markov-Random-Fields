@@ -45,6 +45,8 @@ In the following we sampled:
 
 ## Image denoising 
 
+We performed image denoising in the bayesian framework fixing a prior following Ising distribution and a likelyhood following a gaussian. 
+
 <img src="img/duo_test.png" width="60%">
 <img src="img/stats_patches.png" width="40%">
 <img src="img/test_without_.png" width="90%">
