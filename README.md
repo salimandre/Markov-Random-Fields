@@ -17,6 +17,6 @@
 ## Image denoising 
 
 <img src="img/duo_test.png" width="60%">
-<img src="img/test_without_.png" width="60%">
-<img src="img/test_with_ising_.png" width="60%">
+<img src="img/test_without_.png" width="75%">
+<img src="img/test_with_ising_.png" width="75%">
 <img src="img/recovery_curves.png" width="60%">
