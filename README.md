@@ -68,7 +68,18 @@ We use MAP in order to recover original image:
 
 <img src="img/map.png" width="55%">
 
+First we estimated parameters of gaussian by computing empirical mean and variance on random patch of the image. We also computed confidence intervals to ensure of the accuracy of the estimors. 
+
 <img src="img/stats_patches.png" width="40%">
+
+We then applied ICM algorithm to solve MAP. Actually with naive prior it is equivalent to simple thresholding.
+
 <img src="img/test_without_.png" width="90%">
+
+We then applied ICM algorithm to solve MAP with Ising prior and we see that the final image obtained is closer to the orginal image than in the previous case.
+
 <img src="img/test_with_ising_.png" width="90%">
+
+This observation is confirmed by the following plot which highlights how the two models converge to orignal image.
+
 <img src="img/recovery_curves.png" width="60%">
