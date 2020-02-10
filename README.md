@@ -3,7 +3,6 @@
 ## Ising model
 
 <img src="img/gibbs_eq.png" width="60%">
-<img src="img/ising_eq_.png" width="60%">
 
 <img src="img/ising_gibbs_1_.png" width="60%">
 <img src="img/ising_gibbs_3_.png" width="60%">
