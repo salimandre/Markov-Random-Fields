@@ -10,4 +10,7 @@
 
 ## Potts model
 
+<img src="img/potts_no_mix_.png" width="60%">
+<img src="img/potts_with_hierarch_mix_.png" width="60%">
+
 ## Image denoising 
