@@ -13,7 +13,13 @@ example with beta = 1.  :
 example with beta = 3.  :
 
 <img src="img/ising_gibbs_3_.png" width="60%">
+
+While MCMC algorithms Gibbs and Metropolis have theorical guarantee to converge to the designed distribution, ICM converge quickly to a local minimum. On the following graph we compare convergence of these algorithms by measuring how fast they minimize the global energy of the distribution.
+
 <img src="img/all_curves.png" width="60%">
+
+If ICM is faster it requires to start from a nice initial solution and if not it may not converge at all. On the following plots we compare the ability of respectively ICM, Gibbs and Metropolis algorithms to converge to Ising model distribution starting from a all white image.
+
 <img src="img/ising_icm_from_zeros_.png" width="60%">
 <img src="img/ising_gibbs_from_zeros_.png" width="60%">
 <img src="img/ising_metro_from_zeros_.png" width="60%">
