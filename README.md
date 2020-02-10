@@ -36,7 +36,11 @@ In the following we sampled:
 <img src="img/potts_simple_eq.png" width="20%">
 
 <img src="img/potts_no_mix_.png" width="60%">
+
+In the following we sampled:
+
 <img src="img/potts_hierarch_eq.png" width="60%">
+
 <img src="img/potts_with_hierarch_mix_.png" width="60%">
 
 ## Image denoising 
