@@ -45,6 +45,10 @@ In the following we sampled:
 
 ## Image denoising 
 
+In order to perform image denoising using Markov Random Fields we added some random gaussian noise to an original binary image. We then aim to recover the original image.
+
+<img src="img/duo_test.png" width="60%">
+
 We performed image denoising in the bayesian framework using a naive prior assumption of independancy between pixels then using a prior following Ising distribution with 4 connexity. 
 
 Naive prior:
@@ -64,7 +68,6 @@ We use MAP in order to recover original image:
 
 <img src="img/map.png" width="55%">
 
-<img src="img/duo_test.png" width="60%">
 <img src="img/stats_patches.png" width="40%">
 <img src="img/test_without_.png" width="90%">
 <img src="img/test_with_ising_.png" width="90%">
