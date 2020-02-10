@@ -6,11 +6,11 @@
 
 <img src="img/ising_eq.png" width="30%">
 
-example with beta = 1.  :
+  Example with beta = 1.  :
 
 <img src="img/ising_gibbs_1_.png" width="60%">
 
-example with beta = 3.  :
+  Example with beta = 3.  :
 
 <img src="img/ising_gibbs_3_.png" width="60%">
 
