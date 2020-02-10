@@ -1,7 +1,7 @@
 # Markov-Random-Fields
 
 ## Ising model
-We aim to sample the following distribution on {0,1}^n where
+We aim to sample the following distribution on state space {0,1}^n where
 
 <img src="img/gibbs_eq.png" width="60%">
 
@@ -29,7 +29,7 @@ If ICM is faster it requires to start from a suitable initial solution and if no
 
 ## Potts model
 
-We also sample the Potts model, a more generalized version of Ising model as the state set {0,1,2,...,q}^n is no more binary
+We also sample the Potts model, a more generalized version of Ising model as the state space {0,1,2,...,q}^n is no more binary
 
 In the following we sampled:
 <img src="img/potts_simple_eq.png" width="20%">
