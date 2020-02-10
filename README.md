@@ -61,7 +61,7 @@ Ising prior with 4 connexity:
 
 The Likelhood (data attachment) is modelled by a gaussian. Hence we have: 
 
-<img src="img/likelyhood.png" width="55%">
+<img src="img/likelyhood.png" width="50%">
 <img src="img/likely_norm.png" width="55%">
 
 We use MAP in order to recover original image:
