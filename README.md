@@ -1,5 +1,14 @@
 # Markov-Random-Fields
 
+We studied undirected probabilistic graphical model and here we provide some result in image processing.
+
+We sampled Markov Random Fields models (Ising model, Potts model) using the following algorithm:
+* Gibbs sampling
+* Metropolis sampling
+* Iterated Conditional Modes (ICM)
+
+Finally we applied these methods to solve a task of image denoising.
+
 ## Ising model
 We aim to sample the following distribution on state space {0,1}^n where
 
