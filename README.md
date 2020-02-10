@@ -1,7 +1,7 @@
 # Markov-Random-Fields
 
 ## Ising model
-We aim to sample the following distribution on 
+We aim to sample the following distribution on {0,1}^n where
 
 <img src="img/gibbs_eq.png" width="60%">
 
