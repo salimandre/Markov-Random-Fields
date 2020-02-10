@@ -4,9 +4,7 @@
 
 <img src="img/gibbs_eq.png" width="60%">
 
-dd
-
-<img src="img/ising_eq.png" width="25%">
+<img src="img/ising_eq.png" width="30%">
 
 <img src="img/ising_gibbs_1_.png" width="60%">
 <img src="img/ising_gibbs_3_.png" width="60%">
