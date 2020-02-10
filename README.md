@@ -1,6 +1,6 @@
 # Markov-Random-Fields
 
-We studied undirected probabilistic graphical model and here we provide some result in image processing.
+We studied undirected probabilistic graphical models and here we provide some result in image processing.
 
 We sampled Markov Random Fields models (Ising model, Potts model) using the following algorithm:
 * Gibbs sampling
