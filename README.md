@@ -80,6 +80,6 @@ We then applied ICM algorithm to solve MAP with Ising prior and we see that the 
 
 <img src="img/test_with_ising_.png" width="90%">
 
-This observation is confirmed by the following plot which highlights how the two models converge to orignal image.
+This observation is confirmed by the following plot which highlights how the two models converge to original image.
 
 <img src="img/recovery_curves.png" width="60%">
