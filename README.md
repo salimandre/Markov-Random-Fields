@@ -45,7 +45,7 @@ In the following we sampled:
 
 ## Image denoising 
 
-In order to perform image denoising using Markov Random Fields we added some random gaussian noise to an original binary image. We then aim to recover the original image.
+In order to perform image denoising using Markov Random Fields we added some random gaussian noise to an original binary image. We then aim to recover the original image. We show that the use of an Ising prior achieves better result than a naive independancy prior.
 
 <img src="img/duo_test.png" width="60%">
 
