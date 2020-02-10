@@ -39,7 +39,7 @@ In the following we sampled:
 
 In the following we sampled:
 
-<img src="img/potts_hierarch_eq.png" width="30%">
+<img src="img/potts_hierarch_eq.png" width="35%">
 
 <img src="img/potts_with_hierarch_mix_.png" width="60%">
 
