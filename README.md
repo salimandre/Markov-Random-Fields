@@ -51,7 +51,7 @@ Naive prior:
 
 <img src="img/naive_prior.png" width="30%">
 
-Ising prior:
+Ising prior with 4 connexity:
 
 <img src="img/ising_prior.png" width="40%">
 
