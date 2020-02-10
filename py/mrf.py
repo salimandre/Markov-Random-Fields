@@ -428,7 +428,7 @@ def test(y_s):
 """
 
 
-# Ising model
+# Ising prior model
 alpha_00_11 = 0.
 alpha_01_10 = 2.
 Ising_model = {}
@@ -442,15 +442,14 @@ rf = np.uint8(np.floor(Ising_model['n_states']*np.random.rand(hrf,wrf)))
 #rf = np.uint8(np.floor(Ising_model['n_states']*np.zeros((hrf,wrf))))
 rf_img = rf * int(np.floor(255/(Ising_model['n_states']-1)))
 
+
+# Image denoising
 mu = (97.2, 163.9)
 scale = (22.4, 22.7) 
 png_filename_ = 'test_with_ising.png'#'img_seg_without_ising_test.png'#'img_seg_without_ising_test.png'
 Err_global = grey_img_seg_by_mrf(img0[:,:,0], true_img[:,:,0], rf, mu, scale, 1000000, Ising_model, png_filename=png_filename_)
 
 plt.imread(png_filename_)
-plt.show()
-
-plt.plot(list(range(1000000)),Err_global)
 plt.show()
 
 
