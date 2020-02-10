@@ -14,3 +14,5 @@
 <img src="img/potts_with_hierarch_mix_.png" width="60%">
 
 ## Image denoising 
+
+<img src="img/duo_test.png" width="60%">
