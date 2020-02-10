@@ -68,7 +68,7 @@ We use MAP in order to recover original image:
 
 <img src="img/map.png" width="55%">
 
-First we estimated parameters of gaussian by computing empirical mean and variance on random patch of the image. We also computed confidence intervals to ensure of the accuracy of the estimors. 
+First we estimated parameters of gaussian by computing empirical mean and standard deviation on random patches of the image. We also computed confidence intervals to ensure of the accuracy of the estimators. 
 
 <img src="img/stats_patches.png" width="40%">
 
