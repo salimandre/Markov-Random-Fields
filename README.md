@@ -45,20 +45,20 @@ In the following we sampled:
 
 ## Image denoising 
 
-We performed image denoising in the bayesian framework using a naive prior assumption of independancy between pixels then using a prior following Ising distribution. 
+We performed image denoising in the bayesian framework using a naive prior assumption of independancy between pixels then using a prior following Ising distribution with 4 connexity. 
 
 Naive prior:
 
-<img src="img/naive_prior.png" width="20%">
+<img src="img/naive_prior.png" width="30%">
 
 Ising prior:
 
-<img src="img/ising_prior.png" width="20%">
+<img src="img/ising_prior.png" width="40%">
 
 The Likelhood (data attachment) is modelled by a gaussian. Hence we have: 
 
-<img src="img/likelyhood.png" width="20%">
-<img src="img/likely_norm.png" width="20%">
+<img src="img/likelyhood.png" width="30%">
+<img src="img/likely_norm.png" width="40%">
 
 We use MAP in order to recover original image:
 
