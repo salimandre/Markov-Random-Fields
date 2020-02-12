@@ -1,4 +1,4 @@
-# Markov-Random-Fields
+# Markov Random Fields
 
 We studied undirected probabilistic graphical models and here we provide some result in image processing.
 
