@@ -81,11 +81,11 @@ First we estimated parameters of gaussian by computing empirical mean and standa
 
 <img src="img/stats_patches.png" width="40%">
 
-We then applied ICM algorithm to solve MAP. Actually with naive prior it is equivalent to simple thresholding.
+We then applied ICM algorithm to solve MAP. Actually **with naive prior** it is equivalent to simple thresholding.
 
 <img src="img/test_without_.png" width="90%">
 
-We then applied ICM algorithm to solve MAP with Ising prior and we see that the final image obtained is closer to the orginal image than in the previous case.
+We then applied ICM algorithm to solve MAP **with Ising prior** and we see that the final image obtained is closer to the orginal image than in the previous case.
 
 <img src="img/test_with_ising_.png" width="90%">
 
